@@ -1,0 +1,44 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "rating": 4.6,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung m33",
+        "price": 104,
+        "rating": 4.7,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "nokia A53",
+        "price": 54,
+        "rating": 3.1,
+        "featured": true,
+        "company": "nokia"
+    },
+    {
+        "name": "oppo f2",
+        "price": 44,
+        "rating": 4.3,
+        "featured": true,
+        "company": "oppo"
+    },
+    {
+        "name": "realme 9",
+        "price": 84,
+        "rating": 4.9,
+        "featured": true,
+        "company": "realme"
+    },
+    {
+        "name": "redmi 5",
+        "price": 24,
+        "rating": 3.8,
+        "featured": true,
+        "company": "xiaomi"
+    }
+]
